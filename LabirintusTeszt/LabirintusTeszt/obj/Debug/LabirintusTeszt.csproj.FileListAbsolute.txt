@@ -1,0 +1,12 @@
+C:\Users\O.Zsolt\Desktop\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\obj\Debug\LabirintusTeszt.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\bin\Debug\LabirintusTeszt.exe.config
+C:\Users\O.Zsolt\Desktop\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\bin\Debug\LabirintusTeszt.exe
+C:\Users\O.Zsolt\Desktop\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\bin\Debug\LabirintusTeszt.pdb
+C:\Users\O.Zsolt\Desktop\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\obj\Debug\LabirintusTeszt.exe
+C:\Users\O.Zsolt\Desktop\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\obj\Debug\LabirintusTeszt.pdb
+C:\Users\O.Zsolt\Desktop\Labirintus\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\bin\Debug\LabirintusTeszt.exe.config
+C:\Users\O.Zsolt\Desktop\Labirintus\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\bin\Debug\LabirintusTeszt.exe
+C:\Users\O.Zsolt\Desktop\Labirintus\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\bin\Debug\LabirintusTeszt.pdb
+C:\Users\O.Zsolt\Desktop\Labirintus\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\obj\Debug\LabirintusTeszt.csprojAssemblyReference.cache
+C:\Users\O.Zsolt\Desktop\Labirintus\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\obj\Debug\LabirintusTeszt.exe
+C:\Users\O.Zsolt\Desktop\Labirintus\LabirintusTeszt\LabirintusTeszt\LabirintusTeszt\obj\Debug\LabirintusTeszt.pdb
